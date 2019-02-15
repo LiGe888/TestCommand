@@ -7,11 +7,13 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        服务器修改代码和本地产生冲突
+//        服务器修改代码和本地产生冲突
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        MainActivity.
 
-        本地修改代码222222
+
+//      本地修改代码222222
 
         本地修改代码333
 
